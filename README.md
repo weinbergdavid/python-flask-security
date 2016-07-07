@@ -19,4 +19,5 @@ Open another CMD and run:<br/>
   5. http 127.0.0.1:5001/dummy-api-token/  Authentication-Token:<token from get_token scirpt><br/>
 
 
-The result need to be like this image.
+The result need to be like this image:
+<img src="https://github.com/weinbergdavid/python-flask-security/blob/master/api-example.PNG"></img>
