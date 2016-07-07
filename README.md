@@ -7,7 +7,7 @@ The example tested on python 3.5.1 with PyCharm on windows.
 <br/>
 Open cmd and run:<br/>
   1. cd /path-to-dir/<br/>
-  2. pip install -r /path/to/requirements.txt<br/>
+  2. pip install -r ./requirements.txt<br/>
   3. python run.py<br/>
 <br/>
 
