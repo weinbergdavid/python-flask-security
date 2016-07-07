@@ -85,8 +85,8 @@ from flask import jsonify
 @http_auth_required
 def dummyAPIHttpAuth():
     ret_dict = {
-        "Key1": "Value1",
-        "Key2": "value2"
+        "Type": "Http",
+        "Email": g.identity.user.email
     }
     return jsonify(items=ret_dict)
 
@@ -94,16 +94,16 @@ def dummyAPIHttpAuth():
 @auth_token_required
 def dummyAPITokenAuth():
     ret_dict = {
-        "Key1": "Value1",
-        "Key2": "value2"
+        "Type": "Token",
+        "Email": g.identity.user.email
     }
     return jsonify(items=ret_dict)
 
-@app.route('/dummy-api-without', methods=['GET'])
+@app.route('/dummy-api-anonymous/', methods=['GET'])
 def index():
     ret_dict = {
-        "Key1": "Value1",
-        "Key2": "value2"
+        "Type": "Anonymous",
+        "Email": None
     }
     return jsonify(items=ret_dict)
 
