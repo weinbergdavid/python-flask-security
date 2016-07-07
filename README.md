@@ -10,6 +10,7 @@ Open cmd and run:<br/>
   2. pip install -r /path/to/requirements.txt<br/>
   3. python run.py<br/>
 <br/>
+
 Open another CMD and run:<br/>
   1. cd /path-to-dir/<br/>
   2. http 127.0.0.1:5001/dummy-api-anonymous/<br/>
