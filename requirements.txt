@@ -1,0 +1,4 @@
+Flask
+Flask-Security
+Flask-SQLAlchemy
+httpie
