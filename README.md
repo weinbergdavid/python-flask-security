@@ -1,6 +1,6 @@
 
 <h4>Python Flask-Security Example</h4>
-This is working example of login for flask framework based on Falsk-Security extention. The example based on this <a href="http://mandarvaze.github.io/2015/01/token-auth-with-flask-security.html">blog</a><br/>
+This is working example of login for flask framework based on Flask-Security extention. The example based on this <a href="http://mandarvaze.github.io/2015/01/token-auth-with-flask-security.html">blog</a><br/>
 The example tested on python 3.5.1 with PyCharm on windows.
 <br/><br/><br/>
 <h5>How to run this example?</h5>
