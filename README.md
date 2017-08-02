@@ -21,3 +21,7 @@ Open another CMD and run:<br/>
 
 The result need to be like this image:
 <img src="https://github.com/weinbergdavid/python-flask-security/blob/master/api-example.PNG"></img>
+
+
+<br/><br/><br/><br/>
+If you want to read more about me go to my <a href="www.davidweinberg.co.il">site</a>
