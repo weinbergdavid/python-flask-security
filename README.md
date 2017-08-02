@@ -24,4 +24,4 @@ The result need to be like this image:
 
 
 <br/><br/><br/><br/>
-If you want to read more about me go to my <a href=http://"www.davidweinberg.co.il">site</a>.
+If you want to read more about me go to my <a href="http://www.davidweinberg.co.il">site</a>.
